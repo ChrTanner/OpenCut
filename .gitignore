@@ -5,6 +5,7 @@ target/
 .env.*
 !.env.example
 docs/
+.wrangler/
 
 # moon runtime cache
 .moon/cache/
